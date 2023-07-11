@@ -7,5 +7,13 @@ This is the freature from sri v1.1
 This is second feature from Sri v1.2
 
 =================================
+<<<<<<< HEAD
 
 This commit from test user
+=======
+From Sri v1.2
+>>>>>>> feature/srini
+
+====================================
+
+This change is from test..... 12th July
