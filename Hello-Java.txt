@@ -13,3 +13,10 @@ This commit from test user
 =======
 From Sri v1.2
 >>>>>>> feature/srini
+<<<<<<< HEAD
+=======
+
+====================================
+
+This change is from test..... 12th July
+>>>>>>> feature/test
